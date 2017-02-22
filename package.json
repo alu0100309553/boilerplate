@@ -15,8 +15,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ULL-ESIT-PL-1617/primeros-pasos-en-nodejs-erik-jorge-carlos-ruben.git",
-    "wiki": "https://github.com/alu0100309553/boilerplatewiki.git"
+    "url": "https://github.com/alu0100309553/boilerplate.git",
+    "wiki": "https://github.com/alu0100309553/boilerplate.wiki.git"
   },
   "keywords": [
     "gitbook",
